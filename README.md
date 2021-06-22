@@ -2,7 +2,9 @@
 
 
 
-[![NorthChild's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthChild&show_icons=true&theme=tokynight)]
+[![NorthChild's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthChild)]
+![NorthChild's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthChild&show_icons=true&theme=radical)
+
 
 A LITTLE ABOUT ME:
 Full-Stack engineer
