@@ -2,9 +2,6 @@
 
 ![NorthChild's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthChild&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthChild&layout=compact)](https://github.com/NorthChild/github-readme-stats)
-
-
 
 A LITTLE ABOUT ME:
 Full-Stack engineer
@@ -40,4 +37,5 @@ Here are some ideas to get you started:
 -->
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthChild&layout=compact)](https://github.com/NorthChild/github-readme-stats)
 
