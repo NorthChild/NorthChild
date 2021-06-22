@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![NorthChild's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NorthChild)](https://github.com/NorthChild/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NorthChild)](https://github.com/anuraghazra/github-readme-stats)
+
 
