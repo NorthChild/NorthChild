@@ -35,7 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthChild&layout=compact)](https://github.com/NorthChild/github-readme-stats)
-
