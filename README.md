@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 py 6.80
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthChild&theme=tokyonight)  
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NorthChild&theme=tokyonight)   -->
