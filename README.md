@@ -4,9 +4,9 @@
 
 A LITTLE ABOUT ME:
 
-> C# SDET Consultant
-> ISTQB Certification
-> Full-Stack Certification
+> C# SDET Consultant,
+> ISTQB,
+> Full-Stack Certified
 
 
 
