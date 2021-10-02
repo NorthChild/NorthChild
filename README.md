@@ -4,13 +4,13 @@
 
 A LITTLE ABOUT ME:
 
-> C# SDET Consultant
-> ISTQB Certification
-> Full-Stack Certification
+- C# SDET Consultant
+- ISTQB Certification
+- Full-Stack Certification
 
-> C#, Python, PHP, JavaScript, SQL, HTML, CSS.
-> Selenium, Postman, Git, GitHub, SpecFlow, RestSharp, Entity Framework, NUnit, WPF
-> Agile, SOLID OOP, TDD, BDD
+- C#, Python, PHP, JavaScript, SQL, HTML, CSS.
+- Selenium, Postman, Git, GitHub, SpecFlow, RestSharp, Entity Framework, NUnit, WPF
+- Agile, SOLID OOP, TDD, BDD
 
 I'm a massive STEM nerd, i love learning and challenging myself, 
 inexorably stretching the boundaries of what i'm capable of accomplishing.
