@@ -2,11 +2,6 @@
 
 ![NorthChild's GitHub stats](https://github-readme-stats.vercel.app/api?username=NorthChild&show_icons=true&theme=radical)
 
-
-A LITTLE ABOUT ME:
-Full-Stack engineer
-Data science student
-
 A LITTLE ABOUT ME:
 
 > C# SDET Consultant
