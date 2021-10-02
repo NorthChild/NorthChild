@@ -8,6 +8,8 @@ A LITTLE ABOUT ME:
 - ISTQB Certification
 - Full-Stack Certification
 
+
+
 - C#, Python, PHP, JavaScript, SQL, HTML, CSS.
 - Selenium, Postman, Git, GitHub, SpecFlow, RestSharp, Entity Framework, NUnit, WPF
 - Agile, SOLID OOP, TDD, BDD
