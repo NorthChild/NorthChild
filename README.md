@@ -11,7 +11,7 @@ A LITTLE ABOUT ME:
 
 
 - C#, Python, PHP, JavaScript, SQL, HTML, CSS.
-- Selenium, Postman, Git, GitHub, SpecFlow, RestSharp, Entity Framework, NUnit, WPF
+- Selenium, Postman, Git, GitHub, Azure DevOps, SpecFlow, RestSharp, Entity Framework, NUnit, PBI, WPF, Unity
 - Agile, SOLID OOP, TDD, BDD
 
 I'm a massive STEM nerd, i love learning and challenging myself, 
