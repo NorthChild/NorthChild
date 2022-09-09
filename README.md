@@ -7,6 +7,7 @@ A LITTLE ABOUT ME:
 > C# SDET Consultant,
 > ISTQB,
 > Full-Stack Certified
+> Game Developer
 
 
 
