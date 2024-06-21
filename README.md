@@ -6,23 +6,20 @@
 -->
 
 A LITTLE ABOUT ME:
+A Little about me:
 
-> C# SDET Consultant,
-> ISTQB,
-> Full-Stack Certified,
-> Game Developer
+> C# SDET
+> ISTQB Certified
+> Indie Game Programmer
+> Full-Stack Certified
 
+> C# / JavaScript / Python / SQL / T-SQL / PHP / HTML / CSS  
+> Selenium / Postman API testing / Git / SQL Server Management Studio / Entity Framework / Dapper / Azure Infrastructure  / NUnit / SpecFlow / WPF / PowerBI / DAXStudio / RestSharp / Unity & Unreal Game Engines
+> Agile, OOP, TDD, BDD
 
+From an entertainment background to university research, to engineering for the biggest fashion retailer business in the world. I love expanding the boundaries of what I can learn and achieve.  
 
-- C#, Python, PHP, JavaScript, SQL, HTML, CSS.
-- Selenium, Postman, Git, GitHub, Azure DevOps, SpecFlow, RestSharp, Entity Framework, NUnit, PowerBI, WPF, Unity
-- Agile, SOLID OOP, TDD, BDD
-
-I'm a massive STEM nerd, i love learning and challenging myself, 
-inexorably stretching the boundaries of what i'm capable of accomplishing.
-
-After a long journey of self discovery, i decided to dedicate my life to the stem field, soon after discovering programming, i realised that i could work in any discipline with it.
-Dropping everything to learn and be proficient in the amazingly creative medium that is programming.
+I’m a lively, incredibly curious and driven individual that will strive to bring the best of any environment he is placed in.
 
 
 <!--
